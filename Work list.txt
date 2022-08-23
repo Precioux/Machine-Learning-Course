@@ -1,7 +1,6 @@
 - Finish notes on MML!
 - Finish Pandas
 - Finish Preprocessing
-- Finish NB
 - Read and implement RF
 - Finish Seaborn
-- Complete Project 
+
