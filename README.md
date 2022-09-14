@@ -4,4 +4,6 @@ Based on an intership guided and instructed by Computer Science team of IPM Inst
 
 #### Summer 2022
 
-![](img src="Roadmap.png")
+
+<img src="Roadmap.PNG">
+
