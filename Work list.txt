@@ -1,5 +1,0 @@
-- Finish notes on MML!
-- Finish Pandas
-- Finish Preprocessing
-- Finish Seaborn
-- add datasets links to projects
