@@ -3,5 +3,4 @@ This Repository includes a complete course about machine learning with a road ma
 Based on an intership guided and instructed by Computer Science team of IPM Institute For Research In Fundamental Sciences.
 
 #### Summer 2022
-
-![alt text](https://github.com/[precioux]/[Machine-Learning-Course]/blob/[master]/Roadmap.png?raw=true)
+❮img src="Roadmap.png" ❯
