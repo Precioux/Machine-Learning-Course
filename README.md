@@ -4,6 +4,4 @@ Based on an intership guided and instructed by Computer Science team of IPM Inst
 
 #### Summer 2022
 
-<p align="center">
-        <img  src="Roadmap.png" alt="roadmap">
-</p>
+![alt text](https://github.com/[precioux]/[Machine-Learning-Course]/blob/[master]/Roadmap.png?raw=true)
